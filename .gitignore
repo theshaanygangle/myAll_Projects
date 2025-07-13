@@ -3,6 +3,7 @@
 
 # Ignore environment variables
 .env
+**/.env
 
 
 .DS_Store 
